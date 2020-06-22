@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYKNDwdAOHlPvZ0FqOoDf9cBCgpoVN5wHzYNLEkhlUaMAXZ7oSQdt7QxDqSlBJWMwFLYl2mw8xbJ/r4jkCoyRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vladislav\\source\\repos\\SupApi\\SupApi\\SupApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladislav\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
